@@ -1,7 +1,39 @@
-.clickable {
+h1{
+  text-align: center;
+  margin: 5%;
+}
+
+
+.clickable1 {
   cursor: pointer;
   color: #0088cc;
 }
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
 
  .back {
   display: none;
